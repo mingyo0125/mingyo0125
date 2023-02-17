@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Hello! I am studying game development at Gyeonggi Game Meister High School :)
+
 email: wjdalsry125@gmail.com
 
 <a href="https://www.instagram.com/alsry._.112/">
