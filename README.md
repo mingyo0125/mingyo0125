@@ -16,4 +16,10 @@ email: wjdalsry125@gmail.com
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<a href="wjdalsry125@gmail.com>
+    <img 
+        src="http://img.shields.io/badge/-Email-000000?style=flat&logo=Gmail &link=http://ggm.gondr.net/user/profile/282"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyo0125&show_icons=true&theme=radical)
