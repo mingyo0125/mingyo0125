@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello! I am studying game development at Gyeonggi Game Meister High School :)
+
 <a href="https://www.instagram.com/alsry._.112/">
     <img 
         src="http://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&link=https://www.instagram.com/alsry._.112/"
