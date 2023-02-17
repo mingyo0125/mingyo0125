@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-  <a href="https://www.instagram.com/alsry._.112/" target="Instagram"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/alsry._.112/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-#E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/alsry._.112/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
