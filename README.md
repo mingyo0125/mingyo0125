@@ -11,3 +11,5 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 <a href="mailto:wjdalsry125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdalsry125@gmail.com"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyo0125&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyo0125&layout=compact&theme=radical)
