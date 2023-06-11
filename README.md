@@ -27,7 +27,7 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 
 
 
-MY SHCOOL PROFILE
+**MY SHCOOL PROFILE**
 
 
 
@@ -39,7 +39,7 @@ MY SHCOOL PROFILE
  
  
  ---
- MY EMAIL
+ **MY EMAIL**
  
  
  
