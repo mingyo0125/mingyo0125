@@ -39,11 +39,8 @@ MY SHCOOL PROFILE
  
  
  ---
- 
- 
  MY EMAIL
  
  
  
-</a>
-wjdalsry125@gmail.com
+ wjdalsry125@gmail.com
