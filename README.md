@@ -34,7 +34,7 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 <a href="http://ggm.gondr.net/user/profile/282">
     <img 
         src="http://img.shields.io/badge/-School-87CEFA?style=for-the-badge&logo=Google &link=http://ggm.gondr.net/user/profile/282"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>.
  
  
  
