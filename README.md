@@ -4,6 +4,21 @@
 
 Hello! I am studying game development at Gyeonggi Game Meister High School :)
 
+---
+
+
+✏️ 현재 제가 공부 중이고 다룰 수 있는 언어와 툴입니다
+
+
+ <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VISUALSTUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+
+---
+
+
+
 <a href="https://www.instagram.com/alsry._.112/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/alsry._.112/"/></a> 
 <a href="http://ggm.gondr.net/user/profile/282">
     <img 
@@ -11,6 +26,10 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="mailto:wjdalsry125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdalsry125@gmail.com"/></a>
+
+---
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyo0125&show_icons=true&theme=radical)
 
