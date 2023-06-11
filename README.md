@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%there&fontSize=90)
+
 ### Hi there 👋
 
 Hello! I am studying game development at Gyeonggi Game Meister High School :)
