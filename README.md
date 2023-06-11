@@ -7,7 +7,7 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 ---
 
 
-✏️ 현재 제가 공부 중이고 다룰 수 있는 언어와 툴입니다
+✏️ I can and studying
 
 
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
