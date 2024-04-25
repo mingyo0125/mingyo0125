@@ -17,7 +17,7 @@ Hello! I am studying game development at Gyeonggi Game Meister High School :)
 
 <a href="http://ggm.gondr.net/user/profile/282">
     <img 
-        src="http://img.shields.io/badge/-School-87CEFA?style=for-the-badge&logo=Google &link=https://ggm.gondr.net/user/profile/242"
+        src="http://img.shields.io/badge/-School-87CEFA?style=for-the-badge&logo=Google &link=https://ggm.gondr.net/user/profile/232"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://velog.io/@mingyo0125"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@mingyo0125"/></a>
